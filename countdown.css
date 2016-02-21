@@ -1,0 +1,22 @@
+h1, h2 {
+	text-align: center;
+	color: white
+}
+
+.vertical-center {
+	margin-top: 20%;
+}
+
+body {
+	background-image: url('https://7507124ee9d32c4ef5ee-792dd149189b7a82364081b22af6bfba.ssl.cf5.rackcdn.com/4897282-residential-1pxco59-l.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+}
+
+.countdownContainer {
+	color: white;
+	width: 100%;
+	background-color: rgba(0,0,0, .6);
+}
